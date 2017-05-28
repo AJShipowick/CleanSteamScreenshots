@@ -1,0 +1,18 @@
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.exe.config
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.exe
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.pdb
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.xml
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.Resources.resources
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.vbproj.GenerateResource.Cache
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.exe
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.xml
+C:\Users\AdamDesktop\AppData\Local\Temporary Projects\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.pdb
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.exe.config
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.exe
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.xml
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.pdb
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.exe
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.pdb
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\bin\Debug\CleanSteamScreenshots.xml
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.Resources.resources
+D:\VisualStudioWorkspaces\CleanSteamScreenshots\CleanSteamScreenshots\obj\Debug\CleanSteamScreenshots.vbproj.GenerateResource.Cache
